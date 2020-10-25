@@ -1,5 +1,5 @@
 # WikiViewerWebApp
-A simple web application to search for wikipedia pages and open them. Test it out (here)[https://nidhisalian.github.io/WikiViewerWebApp/]
+A simple web application to search for wikipedia pages and open them. Test it out [here][https://nidhisalian.github.io/WikiViewerWebApp/]
 
 Developed with HTML/CSS/Javascript.
 
